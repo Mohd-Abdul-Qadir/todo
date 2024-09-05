@@ -1,0 +1,20 @@
+.main-div {
+  width: 490px;
+  background-color: #3b3b3b;
+  border: none;
+  border-radius: 8px;
+  padding: 16px;
+  margin-left: 2rem;
+  text-align: start;
+  position: relative;
+}
+.main-card {
+  display: flex;
+  gap: 12px;
+  flex-direction: column;
+}
+.inside-btn {
+  position: absolute;
+  right: 10px;
+  top: 8px;
+}
